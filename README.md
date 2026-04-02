@@ -5,18 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=750&height=70&lines=Aspiring+Software+Engineer;Frontend+%26+Full+Stack+Web+Developer;DSA+Enthusiast;Open+to+Internships+and+Opportunities" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Karanexplore" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/karan-gangwal-b1b185330/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:karangangwal143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 Professional Summary
@@ -25,7 +13,7 @@ I am an aspiring **Software Engineer** with a strong interest in **Web Developme
 I enjoy creating responsive and user-focused web applications while continuously improving my **problem-solving**, **coding**, and **development** skills.
 
 I am currently focused on strengthening my foundation in:
-- **Frontend & Full Stack Development**
+- **Full Stack Development**
 - **Java**
 - **Data Structures and Algorithms**
 - **Project Building & Real-World Problem Solving**
