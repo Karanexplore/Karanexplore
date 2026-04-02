@@ -1,23 +1,65 @@
 <h1 align="center">Hi 👋, I'm Karan Gangwal</h1>
-<h3 align="center">🚀 Software Engineer | 💻 Web Developer | 🧠 DSA Enthusiast | 🇮🇳 India</h3>
+<h3 align="center">Aspiring Software Engineer | Web Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&height=70&lines=Aspiring+Software+Engineer;Web+Developer;DSA+Enthusiast;Open+to+Internships+and+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=750&height=70&lines=Aspiring+Software+Engineer;Frontend+%26+Full+Stack+Web+Developer;DSA+Enthusiast;Open+to+Internships+and+Opportunities" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Karanexplore">
+    <img src="https://img.shields.io/badge/GitHub-Karanexplore-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/karan-gangwal-b1b185330/">
+    <img src="https://img.shields.io/badge/LinkedIn-Karan%20Gangwal-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:karangangwal143@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 Professional Summary
 
-- 🌱 I’m currently learning **Web Development & Data Structures and Algorithms**
-- 💻 I love building **Web Development Projects**
-- 🎯 My goal is to become a **Software Engineer**
-- 📚 Currently improving my **problem-solving and coding skills**
-- 📫 Reach me at: **karangangwal143@gmail.com**
+I am an aspiring **Software Engineer** with a strong interest in **Web Development**, **Data Structures & Algorithms**, and building practical software solutions.  
+I enjoy creating responsive and user-focused web applications while continuously improving my **problem-solving**, **coding**, and **development** skills.
+
+I am currently focused on strengthening my foundation in:
+- **Frontend & Full Stack Development**
+- **Java**
+- **Data Structures and Algorithms**
+- **Project Building & Real-World Problem Solving**
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 What I’m Currently Working On
+
+- 🌱 Improving my skills in **Web Development**
+- 💡 Practicing **DSA and problem-solving**
+- 🛠️ Building **real-world projects**
+- 🎯 Preparing for **Software Development roles and internships**
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,redux-toolkit,tailwind,bootstrap,git,github,vscode,postman,docker" />
+</p>
+
+---
+
+## 📌 Core Strengths
+
+- Strong interest in **Software Engineering**
+- Good understanding of **Frontend Development**
+- Passionate about **learning new technologies**
+- Focused on **clean code and logical problem-solving**
+- Consistently working on **improving technical and communication skills**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://github.com/Karanexplore" target="_blank">
@@ -29,14 +71,6 @@
   <a href="mailto:karangangwal143@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
-</p>
-
----
-
-## ⚒️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,git,github,vscode" />
 </p>
 
 ---
@@ -57,7 +91,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Karanexplore&theme=algolia&no-frame=true&margin-w=10" />
@@ -68,11 +102,13 @@
 ## 👀 Profile Views
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Karanexplore&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Karanexplore&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
 ---
 
-## ✨ Quote
+## ✨ Personal Motto
 
-> "Code. Learn. Build. Repeat." 🚀
+> “I believe in learning by building, improving by practicing, and growing through consistency.”
+
+---
