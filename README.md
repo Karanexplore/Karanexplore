@@ -13,7 +13,7 @@
 - 💻 I love building **Web Development Projects**
 - 🎯 My goal is to become a **Software Engineer**
 - 📚 Currently improving my **problem-solving and coding skills**
-- 📫 Reach me at: **karangangwal14@gmail.com**
+- 📫 Reach me at: **karangangwal143@gmail.com**
 
 ---
 
